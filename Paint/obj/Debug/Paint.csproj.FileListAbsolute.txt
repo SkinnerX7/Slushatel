@@ -1,0 +1,39 @@
+F:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.exe.config
+F:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.exe
+F:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.pdb
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.Form1.resources
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.exe
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.pdb
+F:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.exe.config
+E:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.exe
+E:\2 курс\ООП\Paint\Paint\bin\Debug\Paint.pdb
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.Form1.resources
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.exe
+E:\2 курс\ООП\Paint\Paint\obj\Debug\Paint.pdb
+G:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.exe.config
+G:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.exe
+G:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.pdb
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.Form1.resources
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.exe
+G:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.pdb
+F:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.exe.config
+F:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.exe
+F:\2 курс\ООП\Paint - копирование\Paint\bin\Debug\Paint.pdb
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.Form1.resources
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.exe
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.pdb
+F:\2 курс\ООП\Paint - копирование\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
